@@ -8,7 +8,7 @@ It reads the file [dividends.csv](./src/main/resources/dividends.csv), group the
 Build the jar
 > ./gradlew shadowJar
 
-> Run
+Run
 > ./gradlew run
 
 You should see the following console output:
